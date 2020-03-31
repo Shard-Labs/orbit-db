@@ -1,0 +1,26 @@
+{
+  "name": "orbitdb",
+  "version": "1.0.0",
+  "description": "Orbit db",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shard-Labs/orbit-db.git"
+  },
+  "author": "Edi Sinovcic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shard-Labs/orbit-db/issues"
+  },
+  "homepage": "https://github.com/Shard-Labs/orbit-db#readme",
+  "dependencies": {
+    "ipfs": "^0.42.0",
+    "orbit-db": "^0.23.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
